@@ -3,7 +3,7 @@
 
 - <> Atualmente me aventurando no mundo do front-end
 - 📖 Estudando JavaScript, HTML5, CSS3, Java
-- 🎮 Tendando ser melhor a cada dia.
+- 🎮 Tentando ser melhor a cada dia.
 
 <div align="center">
   <a href="https://github.com/BernardoOL">
