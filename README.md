@@ -1,8 +1,8 @@
 ### Olá! Eu sou Bernardo Lopes, por enquanto apenas um estudante
 
 
-- <> Atualmente me aventurando no mundo do front-end
-- 📖 Estudando JavaScript, HTML5, CSS3, Java
+- <> Atualmente me aventurando no mundo do front-end e back-end
+- 📖 Estudando Java - Angular
 - 🎮 Tentando ser melhor a cada dia.
 
 <div align="center">
