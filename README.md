@@ -1,9 +1,8 @@
-### Olá! Eu sou Bernardo Lopes, por enquanto apenas um estudante
+### Hi! Bernardo Lopes here - Full Stack developer
 
 
-- <> Atualmente me aventurando no mundo do front-end e back-end
-- 📖 Estudando Java - Angular
-- 🎮 Tentando ser melhor a cada dia.
+- <> Work with -> Java - Angular - SQL - OracleDatabase - Rest API - Jenkis
+- 🎮 1% Better every day.
 
 <div align="center">
   <a href="https://github.com/BernardoOL">
